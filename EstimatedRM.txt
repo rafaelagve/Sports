@@ -1,0 +1,16 @@
+[En]
+The 1-RM (one Repetition-Maximum) is a key measure to evaluate muscular strength in individuals. This simple script allows the user to obtain the Estimated RM by inputing the number of maximum repetitions and the weigth lifted in a serie. It also allows the user to choose between several equations or simply display all the equations plus the arithmetic mean of them.
+
+The script is written in Python 3.10.0. It contains the newly introduced "match-case" statement, unavailable on previous versions.
+
+Reference paper: LeSuer et al, "The Accuracy of Prediction Equations for estimating 1-RM Performance in the Bench Press, Squat and Deadlift", 1997. Available in: https://journals.lww.com/nsca-jscr/Abstract/1997/11000/The_Accuracy_of_Prediction_Equations_for.1.aspx
+
+
+
+[PT-BR]
+A medida de 1-RM é uma medida-chave para avaliação da força muscular. Com este simples script o usuário pode obter o RM estimado apenas inserindo o número de repetições-máximas e o peso levantado numa série. Também permite o usuário escolher entre diversas equações de predição ou simplesmente visualizar todas mais a média aritmética delas.
+
+Este script foi escrito usando a versão 3.10.0 do Python. Esta versão contém o recém lançado "match-case", não disponível nas versões anteriores.
+
+Artigo de referência: Reference paper: LeSuer et al, "The Accuracy of Prediction Equations for estimating 1-RM Performance in the Bench Press, Squat and Deadlift", 1997. Disponível em: https://journals.lww.com/nsca-jscr/Abstract/1997/11000/The_Accuracy_of_Prediction_Equations_for.1.aspx
+
